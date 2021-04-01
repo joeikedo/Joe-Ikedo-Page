@@ -4,5 +4,5 @@ I'm *Joe Ikedo*, a Computer Science student at **University of California San Di
 ##Computer Science student at UCSD
 # Header
 *italics* not italics 
-![alt text]((https://i.imgur.com/b2NfWGM.jpg)){:height="200px" width="500px"}
+![test](https://i.imgur.com/b2NfWGM.jpg | width=48)
 *italics* not italics 
