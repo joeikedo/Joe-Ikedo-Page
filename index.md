@@ -5,3 +5,8 @@
 ### *About me*
 My name is *Joe Ikedo* I'm studying ***Computer Science*** at [University of California San Diego](https://ucsd.edu/).
 
+This is a git command: `git commit`
+
+Abraham Lincoln once said:
+> Pardon my French.
+
