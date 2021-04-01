@@ -23,7 +23,8 @@ These are some of my academic and career goals:
 - [ ] Complete undergraduate Computer Science degree program
 - [ ] Find employment a Software Developer
 
-<br></br>
+<br>
+
 
 ### *Interests*
 As a hobby, I like learning to make 3D models in [Blender](https://en.wikipedia.org/wiki/Blender_(software)). You can see some of them here below. :slightly_smiling_face: I also like learning to use the [Unity Engine](https://unity.com/) for fun as well.
@@ -34,14 +35,14 @@ As a hobby, I like learning to make 3D models in [Blender](https://en.wikipedia.
   <img src="https://i.imgur.com/POrZAfs.jpg" width="300" />
 </p>
 
-<br></br>
+<br>
+
 
 I enjoy this quote from the Dalai Lama:
 > Happiness is not something ready-made. It comes from your own actions. 
 
 
-<br><br>
-
+<br>
 
 [Section link to top of page](#joe-ikedo)
 
