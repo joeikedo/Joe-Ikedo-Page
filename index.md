@@ -1,3 +1,3 @@
 # Joe Ikedo
 ## Computer Science student at UCSD
-![alt text](https://i.imgur.com/b2NfWGM.jpg =250x250)
+<img src="https://i.imgur.com/b2NfWGM.jpg" width="100" height="100">
