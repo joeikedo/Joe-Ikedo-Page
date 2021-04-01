@@ -36,7 +36,7 @@ As a hobby, I like learning to make 3D models in [Blender](https://en.wikipedia.
 
 <br></br>
 
-I enjoy this quote from The Dalai Lama:
+I enjoy this quote from the Dalai Lama:
 > Happiness is not something ready-made. It comes from your own actions. 
 
 
