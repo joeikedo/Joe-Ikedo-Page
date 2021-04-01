@@ -7,24 +7,24 @@ My name is *Joe Ikedo* I'm studying ***Computer Science*** at [University of Cal
 
 This is a git command: `git commit`
 
-Abraham Lincoln once said:
-> Pardon my French.
-
 [Relative link to the README in this repository](README.md)
 
+Here is a list of some of the things I am familiar with:
+- Java
+- Python
+- C/C++
+- Unix
+- Shell Scripting
 
+These are some of the tasks that I have:
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
 
+<br></br>
 
-
-
-
-
-
-
-
-
-
-
+I enjoy this quote from The Dalai Lama:
+> Happiness is not something readymade. It comes from your own actions. 
 
 [Section link to top of page](#joe-ikedo)
 
