@@ -9,7 +9,7 @@ My name is *Joe Ikedo* I'm studying **Computer Science** at [University of Calif
 
 [Relative link to the README in this repository](README.md)
 
-Some of the most common git commands I use are `git checkout` and `git add`. If it's very early in the morning and I'm sleepy then I might need to use the `--amend` flag when using the `git commit` command. :sweat_smile:
+Some of the most common git commands I use are `git checkout` and `git add`. If it's very early in the morning and I'm sleepy then I might need to indlude the `--amend` flag when using the `git commit` command. ~~Just kidding of course!~~ :sweat_smile:
 
 Here is a list of some of the things I am familiar with:
 - Java
