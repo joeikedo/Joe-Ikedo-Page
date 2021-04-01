@@ -10,14 +10,7 @@ This is a git command: `git commit`
 Abraham Lincoln once said:
 > Pardon my French.
 
-Let's try a section link:
-
-
-
-
-
-
-Test
+[Relative link to the README in this repository](README.md)
 
 
 
@@ -26,5 +19,12 @@ Test
 
 
 
-[Link to top of page](#joe-ikedo).
+
+
+
+
+
+
+
+[Section link to top of page](#joe-ikedo)
 
