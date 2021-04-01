@@ -26,7 +26,7 @@ These are some of my academic and career goals:
 <br></br>
 
 ### *Interests*
-As a hobby, I like learning to make 3D models in [Blender](https://en.wikipedia.org/wiki/Blender_(software)). You can see some of them below. I also like learning to use the [Unity Engine](https://unity.com/) for fun as well.
+As a hobby, I like learning to make 3D models in [Blender](https://en.wikipedia.org/wiki/Blender_(software)). You can see some of them here below. I also like learning to use the [Unity Engine](https://unity.com/) for fun as well.
 
 <p align="middle">
   <img src="https://i.imgur.com/Mj91I32.png" width="300" />
