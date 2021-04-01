@@ -40,7 +40,7 @@ I enjoy this quote from the Dalai Lama:
 > Happiness is not something ready-made. It comes from your own actions. 
 
 
-<br></br>
+<br><br>
 
 
 [Section link to top of page](#joe-ikedo)
