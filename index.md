@@ -42,5 +42,6 @@ I enjoy this quote from the Dalai Lama:
 
 <br></br>
 
+
 [Section link to top of page](#joe-ikedo)
 
