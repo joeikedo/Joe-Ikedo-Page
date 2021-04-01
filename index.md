@@ -1,8 +1,7 @@
-*italics* not italics 
-I'm *Joe Ikedo*, a Computer Science student at **University of California San Diego**.
-#Joe Ikedo
-##Computer Science student at UCSD
-# Header
-*italics* not italics 
-.  <img src="https://i.imgur.com/b2NfWGM.jpg" width="200" height="200"> .
-*italics* not italics 
+# Joe Ikedo
+## Computer Science major at UCSD
+
+![alt text](https://i.imgur.com/n9z7YkR.jpg "Joe Ikedo")
+### *About me*
+My name is *Joe Ikedo* I'm studying ***Computer Science*** at [University of California San Diego](https://ucsd.edu/).
+
