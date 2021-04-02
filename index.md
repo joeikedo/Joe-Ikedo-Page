@@ -10,7 +10,7 @@ My name is *Joe Ikedo* I'm studying ***Computer Science*** at [University of Cal
 [Relative link to the README in this repository](README.md)
 
 
-Some of the most common git commands I use are `git checkout` and `git add`. If it's very early in the morning and I'm sleepy then I might need to indlude the `--amend` flag when using the `git commit` command. ~~Just kidding of course!~~ 
+Some of the most common git commands I use are `git checkout` and `git add`. If it's very early in the morning and I'm sleepy then I might need to include the `--amend` flag when using the `git commit` command. ~~Just kidding of course!~~ 
 
 Here is a list of some of the things I am familiar with:
 - Java
@@ -22,7 +22,7 @@ Here is a list of some of the things I am familiar with:
 These are some of my academic and career goals:
 - [x] Transfer to UCSD
 - [ ] Complete undergraduate Computer Science degree program
-- [ ] Find employment a Software Developer
+- [ ] Find employment as a Software Developer
 
 <br>
 
