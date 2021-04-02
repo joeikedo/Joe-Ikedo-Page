@@ -9,7 +9,6 @@ My name is *Joe Ikedo* I'm studying ***Computer Science*** at [University of Cal
 
 [Relative link to the README in this repository](README.md)
 
-[Test Relative Link](screenshots/VSCode-UI-screenshots/1.PNG)
 
 Some of the most common git commands I use are `git checkout` and `git add`. If it's very early in the morning and I'm sleepy then I might need to indlude the `--amend` flag when using the `git commit` command. ~~Just kidding of course!~~ 
 
@@ -29,7 +28,7 @@ These are some of my academic and career goals:
 
 
 ### *Interests*
-As a hobby, I like learning to make 3D models in [Blender](https://en.wikipedia.org/wiki/Blender_(software)). You can see some of them here below. I also like learning to use the [Unity Engine](https://unity.com/) for fun as well.
+As a hobby, I like learning to make 3D models in [Blender](https://en.wikipedia.org/wiki/Blender_(software)). You can see some of them here below. I also like learning to use the [Unity Engine](https://unity.com/) for fun as well. If you'd like to see another 3D model picture, please click this [Relative link](screenshots/VSCode-UI-screenshots/1.PNG).
 
 <p align="middle">
   <img src="https://i.imgur.com/Mj91I32.png" width="300" />
