@@ -10,7 +10,7 @@ My name is *Joe Ikedo* I'm studying ***Computer Science*** at [University of Cal
 
 Some of the most common git commands I use are `git checkout` and `git add`. If it's very early in the morning and I'm sleepy then I might need to include the `--amend` flag when using the `git commit` command. ~~Just kidding of course!~~ 
 
-Here is a list of some of the things I am familiar with:
+Here is an unordered list of some of the things I am familiar with:
 - Java
 - Python
 - C/C++
@@ -36,6 +36,14 @@ As a hobby, I like learning to make 3D models in [Blender](https://en.wikipedia.
 
 <br>
 
+This is an ordered list of my favorite games:
+1. Monster Hunter
+2. Legend of Zelda
+3. Animal Crossing
+4. Dark Souls
+5. Team Fortress 2
+
+<br>
 
 I enjoy this quote from the Dalai Lama:
 > Happiness is not something ready-made. It comes from your own actions. 
